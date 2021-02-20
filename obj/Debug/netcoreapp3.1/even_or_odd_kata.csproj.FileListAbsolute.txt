@@ -1,0 +1,13 @@
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\bin\Debug\netcoreapp3.1\even_or_odd_kata.exe
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\bin\Debug\netcoreapp3.1\even_or_odd_kata.deps.json
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\bin\Debug\netcoreapp3.1\even_or_odd_kata.runtimeconfig.json
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\bin\Debug\netcoreapp3.1\even_or_odd_kata.runtimeconfig.dev.json
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\bin\Debug\netcoreapp3.1\even_or_odd_kata.dll
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\bin\Debug\netcoreapp3.1\even_or_odd_kata.pdb
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\obj\Debug\netcoreapp3.1\even_or_odd_kata.csprojAssemblyReference.cache
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\obj\Debug\netcoreapp3.1\even_or_odd_kata.AssemblyInfoInputs.cache
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\obj\Debug\netcoreapp3.1\even_or_odd_kata.AssemblyInfo.cs
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\obj\Debug\netcoreapp3.1\even_or_odd_kata.csproj.CoreCompileInputs.cache
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\obj\Debug\netcoreapp3.1\even_or_odd_kata.dll
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\obj\Debug\netcoreapp3.1\even_or_odd_kata.pdb
+C:\Users\Stvn\Desktop\repos\even_or_odd_kata\obj\Debug\netcoreapp3.1\even_or_odd_kata.genruntimeconfig.cache

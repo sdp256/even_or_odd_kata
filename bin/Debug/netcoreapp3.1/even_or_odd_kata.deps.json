@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "even_or_odd_kata/1.0.0": {
+        "runtime": {
+          "even_or_odd_kata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "even_or_odd_kata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
